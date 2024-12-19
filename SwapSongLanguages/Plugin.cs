@@ -53,12 +53,12 @@ namespace SwapSongLanguages
 
             ConfigSongSubtitleLanguageOverride = Config.Bind("General",
                 "SongSubtitleLanguageOverride",
-                "JP",
+                "TW",
                 "Sets the song subtitle to the selected language. (JP, EN, FR, IT, DE, ES, TW, CN, KO)");
 
             ConfigSongDetailLanguageOverride = Config.Bind("General",
                 "SongDetailLanguageOverride",
-                "EN",
+                "TW",
                 "Sets the song detail (above the song title) to the selected language. (JP, EN, FR, IT, DE, ES, TW, CN, KO)");
         }
 
