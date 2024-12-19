@@ -20,6 +20,6 @@
 
 
 # Links 
- [My Other Rhythm Festival Mods](https://docs.google.com/spreadsheets/d/1xY_WANKpkE-bKQwPG4UApcrJUG5trrNrbycJQSOia0c)\
- [My Taiko Discord Server](https://discord.gg/6Bjf2xP)
+ [作者的其他模組](https://docs.google.com/spreadsheets/d/1xY_WANKpkE-bKQwPG4UApcrJUG5trrNrbycJQSOia0c)\
+ [作者的DC伺服器](https://discord.gg/6Bjf2xP)
  
